@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="135.392" height="137.425" viewBox="0 0 135.392 137.425">
+  <g id="icon" transform="translate(-51.922 -107.375)">
+    <path id="Path_508" data-name="Path 508" d="M238.7,705.914h0a60.467,60.467,0,0,0-60.466-60.466h0" transform="translate(-126.145 -461.114)" fill="none" stroke="#d2c303" stroke-miterlimit="10" stroke-width="5"/>
+    <path id="Path_511" data-name="Path 511" d="M178.234,645.447h0A60.467,60.467,0,0,0,238.7,705.914h0" transform="translate(-51.386 -538.072)" fill="none" stroke="#03d272" stroke-miterlimit="10" stroke-width="5"/>
+    <path id="Path_509" data-name="Path 509" d="M178.234,705.914h0A60.467,60.467,0,0,1,238.7,645.447h0" transform="translate(-51.386 -461.114)" fill="none" stroke="#d24103" stroke-miterlimit="10" stroke-width="5"/>
+    <path id="Path_510" data-name="Path 510" d="M238.7,645.447h0a60.467,60.467,0,0,1-60.466,60.466h0" transform="translate(-126.145 -538.072)" fill="none" stroke="#03b0d2" stroke-miterlimit="10" stroke-width="5"/>
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(156.933 121.995)" fill="#03d272" stroke="#03d272" stroke-width="1">
+      <circle cx="8.772" cy="8.772" r="8.772" stroke="none"/>
+      <circle cx="8.772" cy="8.772" r="8.272" fill="none"/>
+    </g>
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(73.392 121.995)" fill="#03b0d2" stroke="#03b0d2" stroke-width="1">
+      <circle cx="8.772" cy="8.772" r="8.772" stroke="none"/>
+      <circle cx="8.772" cy="8.772" r="8.272" fill="none"/>
+    </g>
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(156.933 210.548)" fill="#d24103" stroke="#d24103" stroke-width="1">
+      <circle cx="8.772" cy="8.772" r="8.772" stroke="none"/>
+      <circle cx="8.772" cy="8.772" r="8.272" fill="none"/>
+    </g>
+    <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(73.392 210.548)" fill="#d2c303" stroke="#d2c303" stroke-width="1">
+      <circle cx="8.772" cy="8.772" r="8.772" stroke="none"/>
+      <circle cx="8.772" cy="8.772" r="8.272" fill="none"/>
+    </g>
+    <g id="Group_69" data-name="Group 69" transform="translate(96.311 149.772)">
+      <text id="_" data-name="{" transform="translate(0.036 36)" fill="#4a4e69" font-size="42" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">{</tspan></text>
+      <text id="_2" data-name="{" transform="matrix(-1, 0, 0, 1, 46.747, 37.631)" fill="#4a4e69" font-size="42" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">{</tspan></text>
+      <circle id="Ellipse_8" data-name="Ellipse 8" cx="2.924" cy="2.924" r="2.924" transform="translate(13.367 24.227)" fill="#4a4e69"/>
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="2.924" cy="2.924" r="2.924" transform="translate(20.885 24.227)" fill="#4a4e69"/>
+      <circle id="Ellipse_10" data-name="Ellipse 10" cx="2.924" cy="2.924" r="2.924" transform="translate(29.239 24.227)" fill="#4a4e69"/>
+    </g>
+  </g>
+</svg>

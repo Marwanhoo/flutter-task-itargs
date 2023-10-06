@@ -1,0 +1,20 @@
+{
+  "home": "الرئيسية",
+  "top_likes": "أعلى الأعجابات",
+  "sample_text1": "مهندس تطوير برمجيات",
+  "sample_text2": "مطور تطبيقات الجوال",
+  "sample_text3": "مطور Flutter",
+  "listen_audios": "الأستماع للصوتيات",
+  "play_audio": "تشغيل الصوت",
+  "pause_audio": "إيقاف الصوت",
+  "more": "المزيد",
+  "settings": "الإعدادات",
+  "light_mode": "الوضع النهارى",
+  "dark_mode": "الوضع اليلى",
+  "lang": "English Language",
+  "toast_like": "أعجبني",
+  "toast_dislike": "الغاء الإعجاب",
+  "dialog_ok" : "موافق",
+  "love_audio" : "أحب هذا الصوت",
+  "download_audio" : "تم التنزيل بنجاح"
+}

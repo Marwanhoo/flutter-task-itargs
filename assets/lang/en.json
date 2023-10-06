@@ -1,0 +1,20 @@
+{
+  "home": "Home",
+  "top_likes": "Top Likes",
+  "sample_text1": "Software Development Engineer",
+  "sample_text2": "Mobile App Developer",
+  "sample_text3": "Flutter Developer",
+  "listen_audios": "Listen Audios",
+  "play_audio": "Play Audio",
+  "pause_audio": "Pause Audio",
+  "more": "More",
+  "settings": "Settings",
+  "light_mode": "Light Mode",
+  "dark_mode": "Dark Mode",
+  "lang": "Arabic Language",
+  "toast_like": "Like",
+  "toast_dislike": "DisLike",
+  "dialog_ok" : "OK",
+  "love_audio" : "Love This Audio",
+  "download_audio" : "Download Successfully"
+}
