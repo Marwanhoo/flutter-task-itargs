@@ -21,6 +21,8 @@ It is divided into two sections ( TopLikes - Listen Audios ).
 
 It has one section ( Settings ) and it contains Change the theme , change the language.
 
+While keeping the last position inside shared preferences
+
 
 - functionality to change the language
 - functionality  change the theme to dark mode
