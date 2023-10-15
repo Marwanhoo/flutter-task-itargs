@@ -36,6 +36,52 @@ While keeping the last position inside shared preferences
 - Provider to change the app theme
 - BLoc(cubit) to change Language and interaction with the application in general Like button, Download audios, Icon changed
 
+# Folders tree
+```
+flutter task itargs
+├── assets
+│   ├── images
+│   │   └── itargs_logo.svg
+│   └── lang
+│       ├── ar.json
+│       └── en.json
+└── lib
+    ├── components
+    │   └── components.dart
+    ├── layout
+    │   └── layout_view.dart
+    ├── localization
+    │   ├── app_localization_config.dart
+    │   ├── app_localization.dart
+    │   └── lang_enum.dart
+    ├── main
+    │   └── main.dart
+    ├── models
+    │   ├── api
+    │   │   └── api_services.dart
+    │   ├── quran_model
+    │   │   └── quran_model.dart
+    │   └── repository
+    │       └── audio_repo.dart
+    ├── theme
+    │   ├── dark_theme.dart
+    │   └── light_theme.dart
+    ├── viewmodel
+    │   ├── cubit
+    │   │   ├── app_lang
+    │   │   │   ├── app_lang_cubit.dart
+    │   │   │   └── app_lang_state.dart
+    │   │   └── general_cubit
+    │   │       ├── app_cubit.dart
+    │   │       └── app_state.dart
+    │   ├── observer
+    │   │   └── my_bloc_observer
+    │   └── provider
+    │       └── theme_provider.dart
+    └── views
+        ├── home_view.dart
+        └── more_view.dart
+```
 
 
 # Demo Video
